@@ -8,6 +8,7 @@ export const COLORS = {
 export const LINKS = {
   whatsapp: 'https://wa.me/5538999573075', // Placeholder based on PDF number
   registration: '#', // Placeholder for "link próprio"
+  edital: '#', // Link para download do edital
 };
 
 export const CONTACT = {
