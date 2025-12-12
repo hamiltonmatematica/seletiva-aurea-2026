@@ -5,7 +5,7 @@ export const ScholarshipRules: React.FC = () => {
     <section id="bolsas" className="py-24 bg-aurea-blue text-white overflow-hidden relative">
       {/* Background circles for identity */}
       <div className="absolute -left-20 top-20 w-96 h-96 bg-white opacity-10 rounded-full blur-2xl"></div>
-      
+
       <div className="container mx-auto px-6 relative z-10">
         <div className="text-center mb-16">
           <h2 className="font-title text-5xl md:text-7xl mb-4">
@@ -32,7 +32,7 @@ export const ScholarshipRules: React.FC = () => {
             <h3 className="font-title text-3xl mb-2 text-aurea-blue">2º ao 10º Lugar</h3>
             <div className="text-5xl font-bold mb-4 tracking-tighter">99% a 40%</div>
             <p className="font-body text-gray-400 text-sm mb-4 leading-relaxed">
-              Proporcional ao percentual de acertos. <br/>
+              Proporcional ao percentual de acertos. <br />
               <em className="text-gray-500">Ex: 180 pontos de 200 (90%) = 90% de bolsa.</em>
             </p>
             <div className="w-full bg-white/10 h-px mb-4"></div>
@@ -56,8 +56,7 @@ export const ScholarshipRules: React.FC = () => {
         </div>
 
         <div className="mt-16 text-center font-body text-sm md:text-base opacity-80 max-w-3xl mx-auto">
-          "Criar, com feito, é buscar a silhueta essencial dominante, e colocá-la em plena luz" — Jules Payot. 
-          <br/>Nossa metodologia de bolsas reflete nosso compromisso com a meritocracia e acessibilidade.
+          Nossa metodologia de bolsas reflete nosso compromisso com a meritocracia e acessibilidade.
         </div>
       </div>
     </section>

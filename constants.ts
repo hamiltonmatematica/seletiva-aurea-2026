@@ -6,9 +6,9 @@ export const COLORS = {
 };
 
 export const LINKS = {
-  whatsapp: 'https://wa.me/5538999573075', // Placeholder based on PDF number
-  registration: '#', // Placeholder for "link próprio"
-  edital: '#', // Link para download do edital
+  whatsapp: 'https://delicategiantpanda-n8n.cloudfy.live/form/a1a5e1f0-e080-436b-ad1f-64ff899f8643',
+  registration: 'https://delicategiantpanda-n8n.cloudfy.live/form/a1a5e1f0-e080-436b-ad1f-64ff899f8643',
+  edital: '/edital-seletiva-2026.pdf', // Link para download do edital
 };
 
 export const CONTACT = {
@@ -19,7 +19,7 @@ export const CONTACT = {
 
 export const COURSES = [
   {
-    name: 'ENEM (Matutino e Vespertino)',
+    name: 'ENEM (Matutino, Vespertino e Online)',
     disciplines: '4 áreas ENEM + Redação',
     questions: '20 questões Múltipla Escolha',
     score: '100 pts (Prova) + 100 pts (Redação) = 200 Total',
@@ -33,7 +33,7 @@ export const COURSES = [
     cutOff: '12 acertos (60 pontos)',
   },
   {
-    name: 'Unimontes (Noturno)',
+    name: 'Unimontes (Noturno e Online)',
     disciplines: 'Área de Biológicas + Redação',
     questions: '30 questões Biológicas',
     score: '150 pts Total',
